@@ -9,6 +9,6 @@ require 'pry'
 # }
 
 def get_the_values(groceries)
-  values = []
-values = grocieries.values.flatten
+groceries.values
+binding.pry
 end
